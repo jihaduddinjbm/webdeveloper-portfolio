@@ -90,6 +90,10 @@ nav a{
 
 }
 /* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* about section styles */
 .about {
     padding: 130px;
