@@ -169,3 +169,8 @@ main{
     margin-top: 50px;
     
 }
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 200px;
+}
