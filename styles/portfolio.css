@@ -167,10 +167,26 @@ main{
 .download-cv{
     text-align: center;
     margin-top: 50px;
-    
+    /* footer basic styles */
 }
 footer{
     display: flex;
+    gap:100px ;
     background: #FFF8F3;
     padding: 200px;
+   
+}
+.footer-column{
+    width: 50%;
+}
+.contact input, textarea{
+    display: block;
+    margin-bottom:25px ;
+    padding: 18px 35px;
+    color:#757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+
+
 }
